@@ -1,3 +1,4 @@
 I am trying to cause merge conflict
 +++++++++++++++++++++++++++++++++++++++++++++
 This is a test file
+I am making some changes here to cause merge conflict
